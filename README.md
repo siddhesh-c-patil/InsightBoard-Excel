@@ -4,7 +4,7 @@ InsightBoard is a portfolio project built using Microsoft Excel, based on a samp
 The aim of the project is to perform data analysis using Excel features such as Pivot Tables, Pivot Charts, and Slicers, and to visualize key business insights
 through an interactive dashboard.
 
-# PROJECT OVERVIEW - Steps involved to build this project
+# PROJECT OVERVIEW - Steps involved in this project
 
 STEP 1: Data Cleaning and Preparation
 
@@ -32,7 +32,7 @@ STEP 3: Prepared charts for data analysis
 
 <a href="https://github.com/siddhesh-c-patil/InsightBoard-Excel/blob/main/Top%20products%20by%20sales.png">Top products by sales</a>
 
-STEP 4: Project Dashboard
+STEP 4: Prepared Project Dashboard
 
 Created project dashboard using performance metrics and added slicers to get filtered results.
 
