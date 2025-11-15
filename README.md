@@ -23,7 +23,7 @@ STEP 2: Pivot Table Analysis which includes:
 
 STEP 3: Prepared charts for data analysis
 
-        - Sales by category blob:https://github.com/6422fcd4-e45b-484a-bf50-0bd6fd7e7ee0 
+        - blob:https://github.com/6422fcd4-e45b-484a-bf50-0bd6fd7e7ee0 
 
   
       
