@@ -32,7 +32,6 @@ STEP 3: Prepared charts for data analysis
 
 <a href="https://github.com/siddhesh-c-patil/InsightBoard-Excel/blob/main/Top%20products%20by%20sales.png">Top products by sales</a>
 
-
 <br>
 STEP 4: Project Dashboard
 
