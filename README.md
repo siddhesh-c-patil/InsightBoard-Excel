@@ -22,7 +22,6 @@ STEP 2: Pivot Table Analysis which includes:
         - Top 5 products by sales
 
 STEP 3: Prepared charts for data analysis
-
 <a href="https://github.com/siddhesh-c-patil/InsightBoard-Excel/blob/main/Product%20by%20category.png">
 Product by category</a>
   
