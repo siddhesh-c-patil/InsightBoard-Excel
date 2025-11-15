@@ -33,6 +33,7 @@ STEP 3: Prepared charts for data analysis
 <a href="https://github.com/siddhesh-c-patil/InsightBoard-Excel/blob/main/Top%20products%20by%20sales.png">Top products by sales</a>
 
 
+
 STEP 4: Project Dashboard
 
 Created project dashboard using performance metrics and added slicers to get filtered results.
