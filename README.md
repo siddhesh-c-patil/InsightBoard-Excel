@@ -8,19 +8,22 @@ through an interactive dashboard.
 Steps involved to build this project
 
 STEP 1: Data Cleaning and Preparation
+
         - Checked for missing values
         - Ensured data types were correct
         - Removed duplicates
   
 STEP 2: Pivot Table Analysis which includes:
-        - Sales by region
+
+        - Sales by region 
         - Sales by catregory
         - Monthly sales
         - Profit by category
         - Top 5 products by sales
 
 STEP 3: Prepared charts for data analysis
-blob:https://github.com/6422fcd4-e45b-484a-bf50-0bd6fd7e7ee0
+
+        - Sales by category blob:https://github.com/6422fcd4-e45b-484a-bf50-0bd6fd7e7ee0 
 
   
       
