@@ -22,12 +22,11 @@ STEP 2: Prepared performance metrics:
 
 STEP 3: Prepared charts for data analysis
 
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
-<a href="https://github.com/siddhesh-c-patil/InsightBoard-Excel/blob/main/Product%20by%20category.png">
-Product by category</a>
-<a href=""></a>
+<a href="https://github.com/siddhesh-c-patil/InsightBoard-Excel/blob/main/Sales%20by%20region.png">Regional sales</a>
+<a href="https://github.com/siddhesh-c-patil/InsightBoard-Excel/blob/main/Sales%20by%20category.png">Sales by category</a>
+<a href="https://github.com/siddhesh-c-patil/InsightBoard-Excel/blob/main/Monthly%20sales%20analysis.png">Monthly sales</a>
+<a href="https://github.com/siddhesh-c-patil/InsightBoard-Excel/blob/main/Product%20by%20category.png">Product by category</a>
+<a href="https://github.com/siddhesh-c-patil/InsightBoard-Excel/blob/main/Top%20products%20by%20sales.png">Top products by sales</a>
 
 STEP 4: Project Dashboard
 
