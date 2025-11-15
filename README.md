@@ -20,6 +20,7 @@ STEP 2: Pivot Table Analysis which includes:
         - Top 5 products by sales
 
 STEP 3: Prepared charts for data analysis
+blob:https://github.com/6422fcd4-e45b-484a-bf50-0bd6fd7e7ee0
 
   
       
