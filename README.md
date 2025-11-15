@@ -1,4 +1,4 @@
-InsightBoard - Excel Data Analysis Project
+# InsightBoard - Excel Data Analysis Project
 
 InsightBoard is a portfolio project built using Microsoft Excel, based on a sample company’s dataset.
 The aim of the project is to perform data analysis using Excel features such as Pivot Tables, Pivot Charts, and Slicers, and to visualize key business insights
